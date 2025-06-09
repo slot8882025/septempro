@@ -1,5 +1,108 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "useinfomsg": {
+    "newsinfo": {
+      "version": "1.0bra",
+      "msg": "1",
+      "isios": 0,
+      "inittoken": "5ult8c4jmghs",
+      "Area": [
+    {
+          "key": "TH",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "BD",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "MX",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "BR",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.7gain.cc/home?channel=gp_apk",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "PH",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "IN",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "CL",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "ww.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "PE",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "EG",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }
+      ],
+      "Event": [
+         "test1",
+        "24register_1purchase",
+        "D14Purchase",
+        "D2Purchase",
+        "D3Purchase",
+        "D7Purchase",
+        "first_day_purchase",
+        "first_purchase",
+        "login",
+        "purchase_all",
+        "register",
+        "start_app",
+        "withdraw"
+      ],
+      "ID": [
+         "testid",
+        "8kh6ar",
+        "1vqvsy",
+        "9vtere",
+        "a1cegd",
+        "iv5jyr",
+        "xpj2zc",
+        "e9z70f",
+        "9birku",
+        "rf64lm",
+        "seoeww",
+        "l8rv59",
+        "mezg5g"
+      ],
+      "quertip": [
+      ]
+    }
+  }
 }
