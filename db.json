@@ -1,72 +1,16 @@
 {
   "useinfomsg": {
     "newsinfo": {
-      "version": "1.0bra",
+      "version": "v1.0",
       "msg": "1",
       "isios": 0,
       "inittoken": "5ult8c4jmghs",
       "Area": [
     {
-          "key": "HK",
+          "key": "H1K",
           "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "CN",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "MX",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "BR",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.7gain.cc/home?channel=gp_apk",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "PH",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "IN",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "CL",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "ww.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "PE",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
-          "code": "",
-       "codeinfo": ""
-        }, {
-          "key": "EG",
-          "name": "1",
-          "value": "https://ww",
-      "valueinfo": "w.777vic.com/home",
+          "value": "admin",
+      "valueinfo": "funs",
           "code": "",
        "codeinfo": ""
         }
