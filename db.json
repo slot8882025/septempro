@@ -2,15 +2,50 @@
   "useinfomsg": {
     "newsinfo": {
       "version": "v1.0",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "inittoken": "5ult8c4jmghs",
       "Area": [
     {
-          "key": "H1K",
+          "key": "IN",
           "name": "1",
-          "value": "admin",
-      "valueinfo": "funs",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "PH",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "MX",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "EG",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.7gain.cc/home?channel=gp_apk",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "BD",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
+          "code": "",
+       "codeinfo": ""
+        }, {
+          "key": "PE",
+          "name": "1",
+          "value": "https://ww",
+      "valueinfo": "w.777vic.com/home",
           "code": "",
        "codeinfo": ""
         }
